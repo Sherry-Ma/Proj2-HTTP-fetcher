@@ -1,5 +1,5 @@
 # Week5 mini rust project -- A HTTP fetcher
-This code uses the TcpStream API in the standard library to make an HTTP request to the specified URL and retrieve the response. The response is then stored in a string and printed to the console.
+This project uses the TcpStream API in the standard library to make an HTTP request to the specified URL and retrieve the response. The response is then stored in a string and printed to the console.
 
 Type `cargo run`
 
